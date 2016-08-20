@@ -101,59 +101,59 @@
 * **Offline**: Funcționare matrice de leduri 
 * **Laptop**: Programare matrice de leduri
 
-###Lecția 21###
+###Lecția 21
 * **Offline**: Senzori și aplicații dezvoltate pe platforma Arduino
 * **Laptop**: Testare senzor de proximitate
 * **Laptop**: Aplicație cu senzor de proximitate
 
-###Lecția 22### 
+###Lecția 22
 * **Offline**: Principii de funcționare
 * **Laptop**: Testare componente
 * **Laptop**: Circuit pentru testarea modului de funcționare a fotorezistenței
 
-###Lecția 23### 
+###Lecția 23
 * **Laptop**:  Proiectarea unui pian cu fotorezistente, buzzer, Arduino
 * **Laptop**:  Construcția dispozitivului
 
-###Lecția 24###
+###Lecția 24
 * **Laptop**: Programarea dispozițivului pian
 * **Offline**: Evaluarea noțiunilor
 
-###Lecția 25### 
+###Lecția 25
 * **Laptop**: Dezvoltare aplicație semafor pe platforma Arduino
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Proiectare și programare dispozitiv
 
-###Lecția 26###
+###Lecția 26
 * **Laptop**: Dezvoltare aplicație zaruri pe platforma Arduino
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Proiectare și programare dispozitiv
 
-###Lecția 27### 
+###Lecția 27
 * **Laptop**: Dezvoltare aplicație cronometru pe platforma Arduino    
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Proiectare și programare dispozitiv
 
-###Lecția 28### 
+###Lecția 28
 * **Laptop**: Dezvoltare aplicație Calculator pe platforma Arduino 1
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Proiectare dispozitiv
 
-###Lecția 29### 
+###Lecția 29
 * **Laptop**: Dezvoltare aplicație Calculator pe platforma Arduino 2
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Programare dispozitiv
 
-###Lecția 30### 
+###Lecția 30
 * **Offline**: Make your own robot 1
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**:  Proiectare dispozitiv
 
-###Lecția 31### 
+###Lecția 31
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Programare dispozitiv
 
-###Lecția 32### 
+###Lecția 32
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Debugging dispozitiv
 * **Offline**: Evaluare proiect
