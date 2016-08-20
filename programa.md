@@ -144,15 +144,16 @@
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Programare dispozitiv
 
-##Lecția 30## Make your own robot 1
+##Lecția 30## 
+* **Offline**: Make your own robot 1
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**:  Proiectare dispozitiv
 
-##Lecția 31## Make your own robot 2
+##Lecția 31## 
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Programare dispozitiv
 
-##Lecția 31## Make your own robot 3
+##Lecția 32## 
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**: Debugging dispozitiv
 * **Offline**: Evaluare proiect
