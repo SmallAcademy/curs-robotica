@@ -34,7 +34,7 @@
 * **Tabletă**: Evitarea obstacolelor
 * **Laptop**: Evitarea obstacolelor
 
-##Lecția 6##
+###Lecția 6###
 * **Offline**: Discuție bucle: while, forever
 * **Laptop**: Dancing robot - sincron
 
@@ -97,7 +97,7 @@
 * **Offline**: Discuții despre modalitatea de comunicare
 * **Laptop**: Exemplu: jocuri de leduri
 
-###Lecția 20### 
+###Lecția 20 
 * **Offline**: Funcționare matrice de leduri 
 * **Laptop**: Programare matrice de leduri
 
