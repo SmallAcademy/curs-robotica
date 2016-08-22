@@ -5,83 +5,92 @@
     # Durată lecție: 120 minute (din care 10 minute pauză)
     # Total lecții: 32
 
+### Introducere
+
+Cursul de robotică este destinat copiilor cu vârsta între 8 și 16 ani și își propune să îi familiarizeze pe cei mici cu tot ce înseamnă automatizarea, sub forma unor proiecte practice.
+
+Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Tabletă, Telecomandă**: Controlare roboțel din telecomandă vs tabletă" îi ajută pe cei mici să înțeleagă diferențele dintre cele 2 medii de control și utilitatea fiecăreia.
+
+La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
+
+---
 
 ###Lecția 1###
-* **Joc**: Să ne cunoaștem
-* **Offline**: Să facem cunoștință cu MBot - componente, posibilități
+* **Joc**: Hai să ne cunoaștem
+* **Offline**: Să facem cunoștință cu mBot - componente, posibilități
 * **Laptop, Tabletă**: Să ne familiarizăm cu mediul de lucru - comenzi, acțiuni
 
 ###Lecția 2###
-* **Offline**: Montarea roboțelului
-* **Offline**: Discuție senzori + conexiuni: infraroșu, bluetooth, wi-fi, cablu
-* **Tabletă, Telecomandă**: Controlare roboțel din telecomanda vs tableta
+* **Offline**: Asamblarea roboțelului mBot
+* **Offline**: Discuție despre senzori și conexiuni: infraroșu, bluetooth, wi-fi, cablu
+* **Tabletă, Telecomandă**: Controlare roboțel din telecomandă vs tabletă
 
 ###Lecția 3###
 * **Telecomandă**: Controlarea roboțelului pe un traseu marcat
 * **Tabletă**: Controlarea roboțelului folosind cod de pe tastatură
-* **Laptop**: Conectare MBot și codul pentru a face robotul să parcurgă traseul de pe calculator
+* **Laptop**: Conectarea mBot-ului și scrierea codulului pentru a face robotul să parcurgă traseul de pe calculator
 
 ###Lecția 4###
-* **Offline**: Discuție culori RGB
+* **Offline**: Discuție despre culori RGB
 * **Laptop**: Comenzile pentru modificarea culorilor ledurilor
 * **Laptop**: Comenzile pentru buzzer - semnale sonore
 * **Laptop**: Citire valori senzori
 * **Laptop**: Semnificația rezultatelor transmise de senzori
 
 ###Lecția 5###
-* **Offline**: Discuție condiții: if
+* **Offline**: Discuție despre condiții: if
 * **Tabletă**: Transformarea tabletei în controller
-* **Tabletă**: Evitarea obstacolelor
-* **Laptop**: Evitarea obstacolelor
+* **Tabletă**: Evitarea obstacolelor de pe tabletă
+* **Laptop**: Evitarea obstacolelor de pe laptop
 
 ###Lecția 6###
 * **Offline**: Discuție bucle: while, forever
 * **Laptop**: Dancing robot - sincron
 
 ###Lecția 7###
-* **Offline**: Discuție variabile
-* **Laptop**: Line-follower
+* **Offline**: Discuție despre variabile
+* **Laptop**: Line-follower și cum îl putem folosi
 * **Laptop**: Concurs roboței - line-follower
 
 ###Lecția 8###
-* **Laptop**: Recapitulare prin proiect propriu
-* **Laptop, Tabletă**: Jocuri relaxante cu MBot
+* **Laptop**: Recapitulare și realizarea unui proiect propriu
+* **Laptop, Tabletă**: Jocuri relaxante cu mBot
 
 ###Lecția 9###
-* **Offline**: Provocare aritmetica - aprofundare programare, variabile
-* **Laptop**: Scrierea codului pentru ca robotul sa primeasca comenzi prin infrarosu de la tastatura
+* **Offline**: Provocare aritmetică - aprofundare programare, variabile
+* **Laptop**: Scrierea codului pentru ca robotul să primeasca comenzi prin infraroșu de la tastatură
 
 ###Lecția 10###
-* **Offline**: Introducere Arduino pentru MBot
-* **Laptop**: Cursă MBot - calibrare, cod; vizualizarea în paralel a codului în Arduino
+* **Offline**: Introducere Arduino pentru mBot
+* **Laptop**: Cursă mBot - calibrare, cod, vizualizarea în paralel a codului în Arduino
 
 ###Lecția 11###
 * **Laptop**: Line-follower enhanced: evitare de obstacole, linie întreruptă
- 
+
 ###Lecția 12###
-* **Offline**: Joc sumo
+* **Offline**: Joc sumo cu roboțeii mBot
 * **Laptop**: Programare robot pentru sumo
 
 ###Lecția 13###
 * **Offline**: Desenarea și rezolvarea unui labirint pe foaie
 * **Offline**: Discuție algoritm posibil pentru rezolvarea unui labirint
 * **Laptop**: Programare robot pentru a rezolva un labirint
- 
+
 ###Lecția 14###
-* **Offline**: Discuție debugging in programare
-* **Laptop**: Debugging in proiecte Scratch cu mișcare
-* **Laptop**: Debugging diferite probleme cu programe pentru MBot
- 
+* **Offline**: Discuție debugging în programare
+* **Laptop**: Debugging în proiecte Scratch cu mișcare
+* **Laptop**: Debugging diferite probleme cu programe pentru mBot
+
 ###Lecția 15###
 * **Offline**: Alegere și discuție proiecte individuale
 * **Laptop**: Dezvoltare proiecte proprii
 * **Laptop**: Rezolvare probleme proiecte
- 
+
 ###Lecția 16###
 * **Laptop**: Finalizare proiecte personale
 * **Laptop**: Prezentarea proiectelor
 * **Offline**: Verificarea cunoștințelor
- 
+
 ###Lecția 17###
 * **Offline**: Descriere platformă dezvoltare Arduino, Instrumente Arduino IDE
 * **Offline**: Noțiuni introductive de programare (variabile, părți componente)
@@ -97,8 +106,8 @@
 * **Offline**: Discuții despre modalitatea de comunicare
 * **Laptop**: Exemplu: jocuri de leduri
 
-###Lecția 20 
-* **Offline**: Funcționare matrice de leduri 
+###Lecția 20
+* **Offline**: Funcționare matrice de leduri
 * **Laptop**: Programare matrice de leduri
 
 ###Lecția 21
@@ -112,11 +121,11 @@
 * **Laptop**: Circuit pentru testarea modului de funcționare a fotorezistenței
 
 ###Lecția 23
-* **Laptop**:  Proiectarea unui pian cu fotorezistente, buzzer, Arduino
+* **Laptop**:  Proiectarea unui pian cu fotorezistențe, buzzer, Arduino
 * **Laptop**:  Construcția dispozitivului
 
 ###Lecția 24
-* **Laptop**: Programarea dispozițivului pian
+* **Laptop**: Programarea dispozitivului pian
 * **Offline**: Evaluarea noțiunilor
 
 ###Lecția 25
@@ -145,7 +154,7 @@
 * **Laptop**: Programare dispozitiv
 
 ###Lecția 30
-* **Offline**: Make your own robot 1
+* **Offline**: Make your own robot 
 * **Offline**: Discuții despre caracteristici și cazuri de utilizare
 * **Laptop**:  Proiectare dispozitiv
 
