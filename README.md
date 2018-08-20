@@ -1,12 +1,13 @@
 # Cursul de robotică
 
 - **Vârsta**: 9-14 ani
+- **Cursuri**: 2 tipuri de cursuri ce durează un an (septembrie - iunie), cu activități diferite, în funcție de vârsta și abilitățile copilului
 - **Automatizarea — o necesitate:** Roboții ne ajută să construim invenții mai rapid și mai bine. Dacă celui mic îi place să construiască și să automatizeze invenții, atunci cursul de robotică este perfect!
 - **Kit-ul rămâne al cursantului:** La finalul cursului, copiii iau acasă modulele electronice pe care le-au folosit la curs (inputs și outputs, în funcție de proiectele desfășurate).
 - **Software-ul — magia care transformă niște fiare în mișcare:** Descoperim plăcerea programării unui robot pe care îl conectăm la laptop. Astfel, înțelegem interacțiunea dintre partea software, robot și lumea înconjurătoare.
 - **Cei mici nu trebuie să vină cu nimic de acasă:** Fiecare copil va avea la curs un laptop/ tabletă, un robot și componentele necesare fiecărui proiect, într-un mediu care încurajează lucrul în echipă.
 
-> La finalul cursului, copiii înțeleg conceptele de automatizare pe care le-au testat, funcționalitățile unui robot (senzori, actuatori și sisteme de comunicație) și cum sunt acestea interconectate, operații matematice, variabile, rolul unui program și cum funcționează acesta, linii de cod și cum comunică acestea cu roboții. În a doua parte a cursului, copiii vor aprofunda noțiuni despre platforma Arduino, vor face experimente electronice (cu senzori, matrici de LED-uri, fotorezistențe) și își vor crea proprii roboți.
+> La finalul cursului, copiii înțeleg conceptele de automatizare pe care le-au testat, funcționalitățile unui robot (senzori, actuatori și sisteme de comunicație) și cum sunt acestea interconectate, operații matematice, variabile, rolul unui program și cum funcționează acesta, linii de cod și cum comunică acestea cu roboții. De asemenea, aprofundeaz[ noțiuni despre platforma Arduino, unde vor face experimente electronice (cu senzori, matrici de LED-uri, fotorezistențe) și își vor crea proprii roboți.
 
 
 # Ce este Small Academy?
