@@ -1,70 +1,20 @@
-# Programă curs robotică
+# Curs de robotică nivel 2
 
     # Vârsta: 9-14 ani
     # Durată ședință: 120 minute (din care 10 minute pauză)
-    # Număr ședințe: 28
+    # Număr ședințe: 31
 
 ### Introducere
 
-Cursul de robotică este destinat copiilor cu vârsta între 9 și 14 ani și își propune să îi familiarizeze pe cei mici cu tot ce înseamnă automatizare și robotică, sub forma unor proiecte practice.
+Dintotdeauna tehnologia a fost folosită să ne facă viața mai ușoară și, de ce nu, mai interesantă. Iar ăsta e un mod de abordare pe care vrem ca cei mici să îl preia de la noi. Nu doar să identifice o problemă (am plecat în vacanță și nu mai știu dacă am udat plantele), ci să caute soluții și să folosească tehnologia în mod creativ pentru a construi de la zero, pe cât posibil, acea soluție.
 
-### Competențe necesare
 
-- Elemente de matematică
-  - Realizarea de calcule cu numere naturale până la 2000
-  - Identificarea figurilor și corpurilor geometrice
-- Abilități practice - îndemânare, modelare, machetare
-- Competențe digitale minime
-- Cunoașterea minimală a elementelor de programare vizuală (ScratchJr)
-- Cunoștințe de bază de fizică
+### Descriere
 
-### Competențe generale
+Astfel, în cursul de Robotică 2, copiii au ocazia de a fundamenta și mai mult cunoștințele adunate la Robotică 1, ajungând să creeze de-a lungul anului câteva proiecte cu aplicabilitate în viața reală.
 
-- Înțelegerea unor noțiuni de bază despre electricitate
-- Cunoașterea unor componente electronice de bază
-- Recunoașterea unui circuit electric simplu
-- Abilitatea de a citi o schemă electronică
-- Înțelegerea modului de funcționare a unui mBot
-- Abilitatea de a implementa cerințe algoritmice simple prin programarea mBot-ului
+Primul dintre acestea este o mașină care poate fi controlată de pe telefonul mobil, prin Bluetooth, copiii ajungând să folosească foarte multe componente electronice. De la LED-uri, la drivere de motoare, la plăcuța Bluetooth, vor avea ocazia să exploreze în detaliu toate aceste lucruri.
 
-### Cuprins
+Al doilea dintre proiecte le va da ocazia să exploreze felul în care funcționează comunicarea WiFi, reușind să conecteze o plantă la internet și colectând toate datele legate de sol și lumină. Explorăm astfel și universul Internet of Things - internetul lucrurilor, care începe să fie din ce în ce mai prezent în viețile noastre.
 
-- Bazele fizicii
-  - Bazele mecanicii
-    - Viteză
-    - Forță
-      - Greutate, Normală
-      - Forța de frecare
-    - Putere
-  - Bazele electronicii
-    - Magnetismul
-    - Electricitatea statică
-      - Sarcina electrică
-    - Atomul
-    - Curentul electric
-      - Tensiune
-      - Intensitate
-- Componente electronice
-  - Comutator
-  - Diodă
-    - Diodă emițătoare de lumină (LED)
-    - LED RGB
-  - Motoare
-- Circuite electronice
-  - Scheme electronice
-  - Breadboard-ul
-  - Conectarea unui LED
-  - Circuitul bistabil
-  - Circuitul bistabil cu LED bicolor
-  - Circuite serie. Circuite paralel
-- mBot
-  - Controlul folosind interfața grafică
-  - Explicarea componentelor
-  - Overview tipuri de comenzi
-  - Programare grafică mBot
-    - Mers în față
-    - Ocolit obstacole
-- Programare Arduino mBot
-  - Explicarea sintaxei C/Arduino
-  - Explicarea funcțiilor setup() și loop()
-  - Refacerea programelor din limbaj vizual în cod
+Prin toată aventura lor, le asigurăm o îmbinare perfectă, în spirit STEM (Știință, Tehnologie, Inginerie, Matematică), între fizică, electronică și programare, în timp ce vor învăța limbajul C/C++ pe platforma de dezvoltare Arduino. Cei care au făcut cursurile de Programare 1 sau Programare 2 vor observa o similaritate între felul în care se scriu programele în C/C++ și JavaScript.
