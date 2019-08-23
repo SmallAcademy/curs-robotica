@@ -1,8 +1,8 @@
 # Curs de robotică nivel 1
 
     # Vârsta: 9-14 ani
-    # Durată ședință: 120 minute (din care 10 minute pauză)
-    # Număr ședințe: 31
+    # Durată ședință: 90 minute (din care 10 minute pauză)
+    # Număr ședințe: 31+ (septembrie - iunie)
 
 ### Introducere
 
